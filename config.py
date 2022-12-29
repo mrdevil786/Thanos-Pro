@@ -24,4 +24,4 @@ class Development(Config):
     # External plugins repo
     EXTERNAL_REPO = "https://github.com/mrdevil786/Thanos-Pro.git"
     #don't edit this 
-    THANOSABUSE = "True"#don't edit this else error in 
+    THANOSABUSE = "False"#don't edit this else error in 
