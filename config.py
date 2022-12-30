@@ -6,7 +6,7 @@ class Development(Config):
     APP_ID = 2004115
     API_HASH = "a2e576aa2ba6035450fdc84b407d2daf"
     # the name to display in your alive message
-    ALIVE_NAME = "🄹🄰🅁🅅🄸🅂"
+    ALIVE_NAME = "𒆜🅼🆁.🅳🅴🆅🅸🅻𒆜"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
     DB_URI = "postgres://kmfmurku:3WrFn3G1nLccvMfLbYUO-0sZiJBbGsjy@berry.db.elephantsql.com/kmfmurku"
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
